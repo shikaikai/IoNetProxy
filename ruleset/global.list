@@ -1,0 +1,3 @@
+#最后没有匹配到的都走socks5出去
+#MATCH,*,Proxy
+IP-CIDR,0.0.0.0/0,PROXY

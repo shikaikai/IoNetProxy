@@ -1,0 +1,204 @@
+#国内的节点优先，走不通走tbj
+
+# (DIRECT,Proxy)
+# > Bilibili
+DOMAIN-KEYWORD,bilibili,DIRECT,Proxy
+DOMAIN-SUFFIX,acg.tv,DIRECT,Proxy
+DOMAIN-SUFFIX,acgvideo.com,DIRECT,Proxy
+DOMAIN-SUFFIX,b23.tv,DIRECT,Proxy
+DOMAIN-SUFFIX,biliapi.com,DIRECT,Proxy
+DOMAIN-SUFFIX,biliapi.net,DIRECT,Proxy
+DOMAIN-SUFFIX,bilibili.com,DIRECT,Proxy
+DOMAIN-SUFFIX,biligame.com,DIRECT,Proxy
+DOMAIN-SUFFIX,biligame.net,DIRECT,Proxy
+DOMAIN-SUFFIX,hdslb.com,DIRECT,Proxy
+DOMAIN-SUFFIX,im9.com,DIRECT,Proxy
+
+# > IQIYI
+DOMAIN-KEYWORD,qiyi,DIRECT,Proxy
+DOMAIN-SUFFIX,qy.net,DIRECT,Proxy
+
+# > letv
+DOMAIN-SUFFIX,api.mob.app.letv.com,DIRECT,Proxy
+
+# > NeteaseMusic
+DOMAIN-SUFFIX,163yun.com,DIRECT,Proxy
+DOMAIN-SUFFIX,music.126.net,DIRECT,Proxy
+DOMAIN-SUFFIX,music.163.com,DIRECT,Proxy
+
+# > Tencent Video
+DOMAIN-SUFFIX,vv.video.qq.com,DIRECT,Proxy
+
+# China Area Network
+# > Microsoft
+DOMAIN-SUFFIX,microsoft.com,DIRECT,Proxy
+DOMAIN-SUFFIX,windows.net,DIRECT,Proxy
+DOMAIN-SUFFIX,sfx.ms,DIRECT,Proxy
+DOMAIN-SUFFIX,sharepoint.com,DIRECT,Proxy
+DOMAIN-KEYWORD,officecdn,DIRECT,Proxy
+# > Blizzard
+DOMAIN-SUFFIX,blizzard.com,DIRECT,Proxy
+DOMAIN-SUFFIX,battle.net,DIRECT,Proxy
+DOMAIN,blzddist1-a.akamaihd.net,DIRECT,Proxy
+# > Steam
+DOMAIN-SUFFIX,steampowered.com,DIRECT,Proxy
+DOMAIN-SUFFIX,steam-chat.com,DIRECT,Proxy
+DOMAIN-KEYWORD,steamcdn,DIRECT,Proxy
+DOMAIN-KEYWORD,steamstore,DIRECT,Proxy
+DOMAIN-KEYWORD,steamuserimages,DIRECT,Proxy
+DOMAIN-KEYWORD,steambroadcast,DIRECT,Proxy
+# > Tencent
+#USER-AGENT,MicroMessenger%20Client,DIRECT,Proxy
+#USER-AGENT,WeChat*,DIRECT,Proxy
+DOMAIN-SUFFIX,qq.com,DIRECT,Proxy
+DOMAIN-SUFFIX,qpic.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,tencent.com,DIRECT,Proxy
+# > Alibaba
+DOMAIN-SUFFIX,alibaba.com,DIRECT,Proxy
+DOMAIN-SUFFIX,alicdn.com,DIRECT,Proxy
+DOMAIN-SUFFIX,amap.com,DIRECT,Proxy
+DOMAIN-SUFFIX,dingtalk.com,DIRECT,Proxy
+DOMAIN-SUFFIX,taobao.com,DIRECT,Proxy
+DOMAIN-SUFFIX,tmall.com,DIRECT,Proxy
+DOMAIN-SUFFIX,ykimg.com,DIRECT,Proxy
+DOMAIN-SUFFIX,youku.com,DIRECT,Proxy
+DOMAIN-SUFFIX,xiami.com,DIRECT,Proxy
+DOMAIN-SUFFIX,xiami.net,DIRECT,Proxy
+# > NetEase
+DOMAIN-SUFFIX,163.com,DIRECT,Proxy
+DOMAIN-SUFFIX,126.net,DIRECT,Proxy
+DOMAIN-SUFFIX,163yun.com,DIRECT,Proxy
+# > Sohu
+DOMAIN-SUFFIX,sohu.com.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,itc.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,sohu.com,DIRECT,Proxy
+DOMAIN-SUFFIX,v-56.com,DIRECT,Proxy
+# > Sina
+DOMAIN-SUFFIX,weibo.com,DIRECT,Proxy
+DOMAIN-SUFFIX,weibo.cn,DIRECT,Proxy
+# > JD
+DOMAIN-SUFFIX,jd.com,DIRECT,Proxy
+DOMAIN-SUFFIX,jd.hk,DIRECT,Proxy
+DOMAIN-SUFFIX,360buyimg.com,DIRECT,Proxy
+# > MI
+DOMAIN-SUFFIX,duokan.com,DIRECT,Proxy
+DOMAIN-SUFFIX,mi-img.com,DIRECT,Proxy
+DOMAIN-SUFFIX,mifile.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,xiaomi.com,DIRECT,Proxy
+# > bilibili
+DOMAIN-SUFFIX,acgvideo.com,DIRECT,Proxy
+DOMAIN-SUFFIX,bilibili.com,DIRECT,Proxy
+DOMAIN-SUFFIX,hdslb.com,DIRECT,Proxy
+# > iQiyi
+DOMAIN-SUFFIX,iqiyi.com,DIRECT,Proxy
+DOMAIN-SUFFIX,iqiyipic.com,DIRECT,Proxy
+DOMAIN-SUFFIX,71.am.com,DIRECT,Proxy
+# > HunanTV
+DOMAIN-SUFFIX,hitv.com,DIRECT,Proxy
+DOMAIN-SUFFIX,mgtv.com,DIRECT,Proxy
+# > Meitu
+DOMAIN-SUFFIX,meitu.com,DIRECT,Proxy
+DOMAIN-SUFFIX,meitudata.com,DIRECT,Proxy
+DOMAIN-SUFFIX,meipai.com,DIRECT,Proxy
+# > YYeTs
+DOMAIN-SUFFIX,zmzapi.com,DIRECT,Proxy
+DOMAIN-SUFFIX,zimuzu.tv,DIRECT,Proxy
+DOMAIN-SUFFIX,zmzfile.com,DIRECT,Proxy
+DOMAIN-SUFFIX,zmzapi.net,DIRECT,Proxy
+# > 蛋蛋赞
+DOMAIN-SUFFIX,baduziyuan.com,DIRECT,Proxy
+DOMAIN-SUFFIX,com-hs-hkdy.com,DIRECT,Proxy
+DOMAIN-SUFFIX,czybjz.com,DIRECT,Proxy
+DOMAIN-SUFFIX,dandanzan.com,DIRECT,Proxy
+DOMAIN-SUFFIX,fjhps.com,DIRECT,Proxy
+DOMAIN-SUFFIX,kuyunbo.club,DIRECT,Proxy
+# > Baidu
+DOMAIN-SUFFIX,baidu.com,DIRECT,Proxy
+DOMAIN-SUFFIX,baidubcr.com,DIRECT,Proxy
+DOMAIN-SUFFIX,bdstatic.com,DIRECT,Proxy
+# > ChinaNet
+DOMAIN-SUFFIX,189.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,21cn.com,DIRECT,Proxy
+# > ByteDance
+DOMAIN-SUFFIX,bytecdn.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,pstatp.com,DIRECT,Proxy
+DOMAIN-SUFFIX,snssdk.com,DIRECT,Proxy
+DOMAIN-SUFFIX,toutiao.com,DIRECT,Proxy
+# > Content Delivery Network
+# > Akamai
+DOMAIN-SUFFIX,akadns.net,DIRECT,Proxy
+# DOMAIN-SUFFIX,akamai.net,DIRECT,Proxy
+# DOMAIN-SUFFIX,akamaiedge.net,DIRECT,Proxy
+# DOMAIN-SUFFIX,akamaihd.net,DIRECT,Proxy
+# DOMAIN-SUFFIX,akamaistream.net,DIRECT,Proxy
+# DOMAIN-SUFFIX,akamaized.net,DIRECT,Proxy
+# > ChinaNetCenter
+DOMAIN-SUFFIX,chinanetcenter.com,DIRECT,Proxy
+DOMAIN-SUFFIX,wangsu.com,DIRECT,Proxy
+# > IP Query
+#DOMAIN-SUFFIX,ipip.net,DIRECT,Proxy
+#DOMAIN-SUFFIX,ip.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,ip.la,DIRECT,Proxy
+DOMAIN-SUFFIX,ip-cdn.com,DIRECT,Proxy
+DOMAIN-SUFFIX,ipv6-test.com,DIRECT,Proxy
+DOMAIN-SUFFIX,test-ipv6.com,DIRECT,Proxy
+DOMAIN-SUFFIX,whatismyip.com,DIRECT,Proxy
+DOMAIN,ip.bjango.com,DIRECT,Proxy
+# > Other
+DOMAIN-KEYWORD,byteoversea,Proxy
+DOMAIN-KEYWORD,tiktok,Proxy
+DOMAIN-SUFFIX,40017.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,broadcasthe.net,DIRECT,Proxy
+DOMAIN-SUFFIX,cailianpress.com,DIRECT,Proxy
+DOMAIN-SUFFIX,chdbits.co,DIRECT,Proxy
+DOMAIN-SUFFIX,chushou.tv,DIRECT,Proxy
+DOMAIN-SUFFIX,cmbchina.com,DIRECT,Proxy
+DOMAIN-SUFFIX,cmbimg.com,DIRECT,Proxy
+DOMAIN-SUFFIX,cmct.tv,DIRECT,Proxy
+DOMAIN-SUFFIX,cmvideo.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,cnlang.org,DIRECT,Proxy
+DOMAIN-SUFFIX,doubanio.com,DIRECT,Proxy
+DOMAIN-SUFFIX,douyu.com,DIRECT,Proxy
+DOMAIN-SUFFIX,douyucdn.cn,DIRECT,Proxy
+DOMAIN-SUFFIX,dxycdn.com,DIRECT,Proxy
+DOMAIN-SUFFIX,hicloud.com,DIRECT,Proxy
+DOMAIN-SUFFIX,hdchina.org,DIRECT,Proxy
+DOMAIN-SUFFIX,hdcmct.org,DIRECT,Proxy
+DOMAIN-SUFFIX,ithome.com,DIRECT,Proxy
+DOMAIN-SUFFIX,kkmh.com,DIRECT,Proxy
+DOMAIN-SUFFIX,ksosoft.com,DIRECT,Proxy
+DOMAIN-SUFFIX,maoyun.tv,DIRECT,Proxy
+DOMAIN-SUFFIX,meituan.net,DIRECT,Proxy
+DOMAIN-SUFFIX,mobike.com,DIRECT,Proxy
+DOMAIN-SUFFIX,mubu.com,DIRECT,Proxy
+DOMAIN-SUFFIX,myzaker.com,DIRECT,Proxy
+DOMAIN-SUFFIX,ourbits.club,DIRECT,Proxy
+DOMAIN-SUFFIX,passthepopcorn.me,DIRECT,Proxy
+DOMAIN-SUFFIX,paypal.com,DIRECT,Proxy
+DOMAIN-SUFFIX,paypalobjects.com,DIRECT,Proxy
+DOMAIN-SUFFIX,privatehd.to,DIRECT,Proxy
+DOMAIN-SUFFIX,redacted.ch,DIRECT,Proxy
+DOMAIN-SUFFIX,ruguoapp.com,DIRECT,Proxy
+DOMAIN-SUFFIX,smzdm.com,DIRECT,Proxy
+DOMAIN-SUFFIX,sogou.com,DIRECT,Proxy
+DOMAIN-SUFFIX,teamviewer.com,DIRECT,Proxy
+DOMAIN-SUFFIX,totheglory.im,DIRECT,Proxy
+DOMAIN-SUFFIX,tp.m-team.cc,DIRECT,Proxy
+DOMAIN-SUFFIX,udacity.com,DIRECT,Proxy
+DOMAIN-SUFFIX,xmcdn.com,DIRECT,Proxy
+DOMAIN-SUFFIX,yangkeduo.com,DIRECT,Proxy
+DOMAIN-SUFFIX,zhihu.com,DIRECT,Proxy
+DOMAIN-SUFFIX,zhimg.com,DIRECT,Proxy
+#USER-AGENT,NeteaseMusic*,DIRECT,Proxy
+#USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT,Proxy
+
+# > IQIYI
+IP-CIDR,101.227.0.0/16,DIRECT,Proxy
+IP-CIDR,101.224.0.0/13,DIRECT,Proxy
+IP-CIDR,119.176.0.0/12,DIRECT,Proxy
+
+# > Youku
+IP-CIDR,106.11.0.0/16,DIRECT,Proxy
+
+# GeoIP China
+GEOIP,CN,DIRECT,Proxy
